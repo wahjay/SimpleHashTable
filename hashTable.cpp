@@ -10,7 +10,7 @@ using namespace std;
 template <class K, class V>
 class HashTable {
   private:
-    list<V>* table;         // used to store all the hash values
+    list<V>* table; 
     int bucketSize;
     int tableSize;
     int addrCal(int key);
