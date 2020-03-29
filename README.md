@@ -1,7 +1,7 @@
 ## SimpleHashTable
 
 - Resolve collison using separate chaining.
-- If we can ensure that the load factor α never exceeds some fixed value αmax, then all operations will be O(1 + αmax) = O(1).
+- If we can ensure that the load factor α never exceeds some fixed value α_max, then all operations will be O(1 + α_max) = O(1).
 
 
 ## Improvement (later)
